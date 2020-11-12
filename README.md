@@ -1,2 +1,3 @@
-# LTU-reboot-Digital-Coding
+## LTU-reboot-Digital-Coding
+
 Learning to code. 
