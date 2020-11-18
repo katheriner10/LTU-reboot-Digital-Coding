@@ -1,4 +1,4 @@
-1.1 - 09/11/2020
+1.1 - 10/11/2020
 
 Reflection
 
@@ -6,4 +6,11 @@ In today's session I learnt that web development industry is a rewarding, lucrat
 
 I also introduced myself to a class of strangers. 
 
-I love tech
+1.2 - 11/11/2020
+
+I learnt how the internet and browsing on the web works, and the definitions of many different terms. We downloaded and installed GitHub and Visual Studio Code, and learnt about what these software can be used for. 
+
+I found it particularly interesting to learn the details of how servers work and what purpose they have. 
+
+1.3 - 12/11/2020
+
