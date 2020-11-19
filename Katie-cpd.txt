@@ -22,3 +22,5 @@ We learnt about GitHub and a few other repository services. How to create folder
 
 We used Visual Studio Code more to create some simple files and folders. Luke discussed places online that we could learn coding for free in order to suplament our learning, as well as achieve some basic qualifications if we wanted to. We started the "Reflections" task. 
 
+2.1 - 23/11/2020 
+
