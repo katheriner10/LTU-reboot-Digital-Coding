@@ -1,6 +1,6 @@
-1.1 - 10/11/2020
+Reflections
 
-Reflection
+1.1 - 10/11/2020
 
 In today's session I learnt that web development industry is a rewarding, lucrative and creative industry to get into.
 
@@ -15,4 +15,8 @@ I also introduced myself to a class of strangers.
 We learnt more details about about web works. The differences between web design and web development, the ways designers work and what tools they use and the importance of making sure our websites work well and look good on different devices. We learnt about different programming languages, and what is and isn't a language. We also looked at web standards, why they're important and what organisations make the standardisations. 
 
 1.3 - 12/11/2020
+
+We learnt about GitHub and a few other repository services. How to create folders and files in GitHub. About code editors, what they do and why they're useful. 
+
+1.4 - 13/11/2020
 
