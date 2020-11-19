@@ -4,13 +4,15 @@ Reflection
 
 In today's session I learnt that web development industry is a rewarding, lucrative and creative industry to get into.
 
+I learnt how the internet and browsing on the web works, and the definitions of many different terms. We downloaded and installed GitHub and Visual Studio Code, and learnt about what these software can be used for. 
+
+I found it particularly interesting to learn the details of how servers work and what purpose they have. 
+
 I also introduced myself to a class of strangers. 
 
 1.2 - 11/11/2020
 
-I learnt how the internet and browsing on the web works, and the definitions of many different terms. We downloaded and installed GitHub and Visual Studio Code, and learnt about what these software can be used for. 
-
-I found it particularly interesting to learn the details of how servers work and what purpose they have. 
+We learnt more details about about web works. The differences between web design and web development, the ways designers work and what tools they use and the importance of making sure our websites work well and look good on different devices. We learnt about different programming languages, and what is and isn't a language. We also looked at web standards, why they're important and what organisations make the standardisations. 
 
 1.3 - 12/11/2020
 
