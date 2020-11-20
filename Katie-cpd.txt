@@ -24,3 +24,6 @@ We used Visual Studio Code more to create some simple files and folders. Luke di
 
 2.1 - 23/11/2020 
 
+Today we started learning about HTML, and the differences between HTML and CSS. We looked at the anatomy of a HTML element, attributes and values, tags, doctype and learnt some basic extentions. We then made a simple piece of code in visual studio and practiced using the things we'd learnt. 
+
+2.2 - 24/11/2020
