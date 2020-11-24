@@ -28,4 +28,4 @@ Today we started learning about HTML, and the differences between HTML and CSS. 
 
 2.2 - 24/11/2020
 
-Today we learnt about links and the attribute types involved in creating links such as href and title, and the difference between absolute and relative paths when linking things. We then practiced creating links that opened in the same tab and a new tab, and linking to an email. 
+Today we learnt about links and the attribute types involved in creating links such as href and title, and the difference between absolute and relative paths when linking things. We then practiced creating links that opened in the same tab and a new tab, and linking to an email. We added images to a document and used html to create line breaks. 
