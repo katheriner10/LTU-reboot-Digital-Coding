@@ -22,11 +22,15 @@ We learnt about GitHub and a few other repository services. How to create folder
 
 We used Visual Studio Code more to create some simple files and folders. Luke discussed places online that we could learn coding for free in order to suplament our learning, as well as achieve some basic qualifications if we wanted to. We started the "Reflections" task. 
 
-2.1 - 23/11/2020 
+2.1 - 16/11/2020 
 
 Today we started learning about HTML, and the differences between HTML and CSS. We looked at the anatomy of a HTML element, attributes and values, tags, doctype and learnt some basic extentions. We then made a simple piece of code in visual studio and practiced using the things we'd learnt. 
 
-2.2 - 24/11/2020
+2.2 - 17/11/2020
 
 Today we learnt about links and the attribute types involved in creating links such as href and title, and the difference between absolute and relative paths when linking things. We then practiced creating links that opened in the same tab and a new tab, and linking to an email. We added images to a document and used html to create line breaks. We also made both types of lists, ordered and unordered. The usefullness of adding comment and how to do it, and how to make tables. 
+
+2.3 - 18/11/2020
+
+We are now starting with CSS. 
 
